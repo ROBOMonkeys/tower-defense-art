@@ -1,0 +1,1 @@
+map size: Height 18 tiles and Width 24 tiles; 768 x 576 pixels
