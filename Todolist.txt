@@ -1,14 +1,29 @@
 To do list(Art)
 
+Key:
+()=not done
+(x)=done
+(@)=temporarily done; will update in the future
+
 Elements
 
--gear icon
--heart
--half heart
--empty heart
--banana
--banana bunch
+-gear icon(@)
+-heart(@)
+-half heart(@)
+-empty heart(@)
+-banana(x)
+-banana bunch(x)
 
 Towers
+-projectile tower()
+-melee tower()
+-barrier()
+-spring()
+-auto collector()
 
 Robots
+-
+-
+-
+-
+-
