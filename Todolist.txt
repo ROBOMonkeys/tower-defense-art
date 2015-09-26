@@ -21,10 +21,100 @@ Elements
 
 Towers
 -projectile tower()
+    -Wood
+        -Portrait(X)
+        -In Game()
+    -Stone
+        -Portrait()
+        -In Game()
+    -Iron
+        -Portrait()
+        -In Game()
+    -Gold
+        -Portrait()
+        -In Game()
+    -Platinum
+        -Portrait()
+        -In Game()
+    -Plutonium
+        -Portrait()
+        -In Game()
 -melee tower()
+    -Wood
+        -Portrait(X)
+        -In Game()
+    -Stone
+        -Portrait()
+        -In Game()
+    -Iron
+        -Portrait()
+        -In Game()
+    -Gold
+        -Portrait()
+        -In Game()
+    -Platinum
+        -Portrait()
+        -In Game()
+    -Plutonium
+        -Portrait()
+        -In Game()
 -barrier()
+    -Wood
+        -Portrait(X)
+        -In Game()
+    -Stone
+        -Portrait()
+        -In Game()
+    -Iron
+        -Portrait()
+        -In Game()
+    -Gold
+        -Portrait()
+        -In Game()
+    -Platinum
+        -Portrait()
+        -In Game()
+    -Plutonium
+        -Portrait()
+        -In Game()
 -spring()
+    -Wood
+        -Portrait(X)
+        -In Game()
+    -Stone
+        -Portrait()
+        -In Game()
+    -Iron
+        -Portrait()
+        -In Game()
+    -Gold
+        -Portrait()
+        -In Game()
+    -Platinum
+        -Portrait()
+        -In Game()
+    -Plutonium
+        -Portrait()
+        -In Game()
 -auto collector()
+    -Wood
+        -Portrait(X)
+        -In Game()
+    -Stone
+        -Portrait()
+        -In Game()
+    -Iron
+        -Portrait()
+        -In Game()
+    -Gold
+        -Portrait()
+        -In Game()
+    -Platinum
+        -Portrait()
+        -In Game()
+    -Plutonium
+        -Portrait()
+        -In Game()
 
 Robots
 -
