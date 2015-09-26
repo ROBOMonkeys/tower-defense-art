@@ -41,7 +41,7 @@ Towers
         -In Game()
 -melee tower()
     -Wood
-        -Portrait(X)
+        -Portrait()
         -In Game()
     -Stone
         -Portrait()
@@ -60,7 +60,7 @@ Towers
         -In Game()
 -barrier()
     -Wood
-        -Portrait(X)
+        -Portrait()
         -In Game()
     -Stone
         -Portrait()
@@ -79,7 +79,7 @@ Towers
         -In Game()
 -spring()
     -Wood
-        -Portrait(X)
+        -Portrait()
         -In Game()
     -Stone
         -Portrait()
@@ -98,7 +98,7 @@ Towers
         -In Game()
 -auto collector()
     -Wood
-        -Portrait(X)
+        -Portrait()
         -In Game()
     -Stone
         -Portrait()
