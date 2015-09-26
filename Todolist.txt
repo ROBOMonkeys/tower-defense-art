@@ -23,7 +23,7 @@ Towers
 -projectile tower()
     -Wood
         -Portrait(X)
-        -In Game()
+        -In Game(@)
     -Stone
         -Portrait()
         -In Game()
