@@ -13,6 +13,11 @@ Elements
 -empty heart(@)
 -banana(x)
 -banana bunch(x)
+-upgrade button(@)
+-next round button(@)
+-pause button(@)
+-tower button(@)
+-orange background(@)
 
 Towers
 -projectile tower()
