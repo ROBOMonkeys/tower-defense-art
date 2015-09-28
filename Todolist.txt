@@ -13,11 +13,11 @@ Elements
 -empty heart(@)
 -banana(x)
 -banana bunch(x)
--upgrade button(@)
--next round button(@)
--pause button(@)
--tower button(@)
--orange background(@)
+-upgrade button(@)(may to be resized to fit 910x685)
+-next round button(@)(may to be resized to fit 910x685)
+-pause button(@)(may to be resized to fit 910x685)
+-tower button(@)(may to be resized to fit 910x685)
+-orange background(@)(resized for 910x685)
 
 Towers
 -projectile tower()
