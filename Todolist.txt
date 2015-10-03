@@ -24,97 +24,107 @@ Towers
     -Wood
         -Portrait(X)
         -In Game(@)
-    -Stone
-        -Portrait()
-        -In Game()
+        -SpriteSheet(X)
     -Iron
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Gold
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Platinum
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Plutonium
         -Portrait()
         -In Game()
+        -SpriteSheet()
 -melee tower()
     -Wood
         -Portrait()
         -In Game()
-    -Stone
-        -Portrait()
-        -In Game()
+        -SpriteSheet()
     -Iron
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Gold
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Platinum
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Plutonium
         -Portrait()
         -In Game()
+        -SpriteSheet()
 -barrier()
     -Wood
         -Portrait()
         -In Game()
-    -Stone
-        -Portrait()
-        -In Game()
+        -SpriteSheet()
     -Iron
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Gold
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Platinum
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Plutonium
         -Portrait()
         -In Game()
+        -SpriteSheet()
 -spring()
     -Wood
         -Portrait()
         -In Game()
-    -Stone
-        -Portrait()
-        -In Game()
+        -SpriteSheet()
     -Iron
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Gold
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Platinum
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Plutonium
         -Portrait()
         -In Game()
+        -SpriteSheet()
 -auto collector()
     -Wood
         -Portrait()
         -In Game()
-    -Stone
-        -Portrait()
-        -In Game()
+        -SpriteSheet()
     -Iron
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Gold
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Platinum
         -Portrait()
         -In Game()
+        -SpriteSheet()
     -Plutonium
         -Portrait()
         -In Game()
+        -SpriteSheet()
 
 Robots
 -
