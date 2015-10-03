@@ -23,12 +23,12 @@ Towers
 -projectile tower()
     -Wood
         -Portrait(X)
-        -In Game(@)
+        -In Game(X)
         -SpriteSheet(X)
     -Iron
-        -Portrait()
-        -In Game()
-        -SpriteSheet()
+        -Portrait(@)
+        -In Game(X)
+        -SpriteSheet(X)
     -Gold
         -Portrait()
         -In Game()
