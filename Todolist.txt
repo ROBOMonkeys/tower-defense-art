@@ -13,11 +13,14 @@ Elements
 -empty heart(@)
 -banana(x)
 -banana bunch(x)
--upgrade button(@)(may to be resized to fit 910x685)
--next round button(@)(may to be resized to fit 910x685)
--pause button(@)(may to be resized to fit 910x685)
--tower button(@)(may to be resized to fit 910x685)
--orange background(@)(resized for 910x685)
+-upgrade button(@)
+-next round button(@)(Updated)
+-pause button(@)(Updated)
+-tower button(@)
+-orange background(@)
+-borders(x)
+-description box(x)
+-sell button(@)
 
 Towers
 -projectile tower()
@@ -105,6 +108,27 @@ Towers
         -In Game()
         -SpriteSheet()
 -auto collector()
+    -Wood
+        -Portrait()
+        -In Game()
+        -SpriteSheet()
+    -Iron
+        -Portrait()
+        -In Game()
+        -SpriteSheet()
+    -Gold
+        -Portrait()
+        -In Game()
+        -SpriteSheet()
+    -Platinum
+        -Portrait()
+        -In Game()
+        -SpriteSheet()
+    -Plutonium
+        -Portrait()
+        -In Game()
+        -SpriteSheet()
+-slow tower()
     -Wood
         -Portrait()
         -In Game()
