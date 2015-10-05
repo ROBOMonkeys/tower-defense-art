@@ -32,10 +32,10 @@ Towers
         -Portrait(@)
         -In Game(X)
         -SpriteSheet(X)
-    -Gold
-        -Portrait()
-        -In Game()
-        -SpriteSheet()
+    -Silver
+        -Portrait(X)
+        -In Game(@)
+        -SpriteSheet(@)
     -Platinum
         -Portrait()
         -In Game()
@@ -53,7 +53,7 @@ Towers
         -Portrait()
         -In Game()
         -SpriteSheet()
-    -Gold
+    -Silver
         -Portrait()
         -In Game()
         -SpriteSheet()
@@ -74,7 +74,7 @@ Towers
         -Portrait()
         -In Game()
         -SpriteSheet()
-    -Gold
+    -Silver
         -Portrait()
         -In Game()
         -SpriteSheet()
@@ -95,7 +95,7 @@ Towers
         -Portrait()
         -In Game()
         -SpriteSheet()
-    -Gold
+    -Silver
         -Portrait()
         -In Game()
         -SpriteSheet()
@@ -116,7 +116,7 @@ Towers
         -Portrait()
         -In Game()
         -SpriteSheet()
-    -Gold
+    -Silver
         -Portrait()
         -In Game()
         -SpriteSheet()
@@ -137,7 +137,7 @@ Towers
         -Portrait()
         -In Game()
         -SpriteSheet()
-    -Gold
+    -Silver
         -Portrait()
         -In Game()
         -SpriteSheet()
