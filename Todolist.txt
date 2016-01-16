@@ -33,9 +33,9 @@ Towers
         -In Game(X)
         -SpriteSheet(X)
     -Silver
-        -Portrait(X)
-        -In Game(@)
-        -SpriteSheet(@)
+        -Portrait(@)
+        -In Game(X)
+        -SpriteSheet(X)
     -Platinum
         -Portrait()
         -In Game()
