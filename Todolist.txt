@@ -44,7 +44,7 @@ Towers
         -Portrait()
         -In Game()
         -SpriteSheet()
--melee tower()
+-melee tower()x
     -Wood
         -Portrait()
         -In Game()
@@ -86,7 +86,7 @@ Towers
         -Portrait()
         -In Game()
         -SpriteSheet()
--spring()
+-spring()x
     -Wood
         -Portrait()
         -In Game()
@@ -151,8 +151,14 @@ Towers
         -SpriteSheet()
 
 Robots
--
--
--
--
+-normal robot
+    -this robot travels at a normal rate and has average health
+-fast robot
+    -this robot travels fast but at the cost of having low health
+-slow robot
+    -this robot travels slow but has a lot of health
+-flying robot
+    -this robot travels as fast as the normal robot but it can fly
+     over towers such as the barrier. Only certain towers can hit the
+     robot such as projectile tower.
 -
