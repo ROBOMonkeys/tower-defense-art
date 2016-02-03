@@ -86,7 +86,7 @@ Towers
         -Portrait()
         -In Game()
         -SpriteSheet()
--spring()x
+-sniper tower()
     -Wood
         -Portrait()
         -In Game()
