@@ -88,8 +88,8 @@ Towers
         -SpriteSheet()
 -sniper tower()
     -Wood
-        -Portrait()
-        -In Game()
+        -Portrait(@)
+        -In Game(@)
         -SpriteSheet()
     -Iron
         -Portrait()
